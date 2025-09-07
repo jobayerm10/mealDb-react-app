@@ -59,10 +59,7 @@ This returns meals starting with the letter `a`.
 
 ---
 
-## Example Screenshot
-
 *When you run the project, you’ll see a grid of meals with images, titles, categories, and areas.*
-<img width="1360" height="668" alt="image" src="https://github.com/user-attachments/assets/ab11f8b7-84c1-4fd9-bde1-d81ab46ea368" />
 
 
 
