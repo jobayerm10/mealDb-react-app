@@ -50,9 +50,11 @@ This is a simple React + Tailwind CSS application that fetches meal data from [T
 ## API Reference
 
 Meals are fetched from:
-
-```
 https://www.themealdb.com/api/json/v1/1/search.php?f=a
+---
+
+Live preview : 
+Click here : https://meal-db-react-app-three.vercel.app/
 ```
 
 This returns meals starting with the letter `a`.
@@ -60,8 +62,7 @@ This returns meals starting with the letter `a`.
 ---
 
 *When you run the project, you’ll see a grid of meals with images, titles, categories, and areas.*
-Live preview : 
-Click here : https://meal-db-react-app-three.vercel.app/
+
 
 
 
