@@ -2,7 +2,6 @@
 
 This is a simple React + Tailwind CSS application that fetches meal data from [TheMealDB API](https://www.themealdb.com/api.php) and displays a list of meals.
 
----
 
 ## Features
 
@@ -10,7 +9,7 @@ This is a simple React + Tailwind CSS application that fetches meal data from [T
 * Displays meal name, category, area, and thumbnail image.
 * Responsive grid layout built with **Tailwind CSS**.
 
----
+
 
 ## Installation
 
@@ -19,47 +18,42 @@ This is a simple React + Tailwind CSS application that fetches meal data from [T
    ```bash
    git clone https://github.com/your-username/mealdb-react-app.git
    cd mealdb-react-app
-   ```
+
 
 2. Install dependencies:
 
    ```bash
    npm install
-   ```
+
 
 3. Run the development server:
 
    ```bash
    npm run dev
-   ```
+   
 
 4. Open your browser and visit:
-
-   ```
-   http://localhost:5173
+    http://localhost:5173
   
-```
+
 ## Technologies Used
 
 * [React](https://reactjs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [TheMealDB API](https://www.themealdb.com/)
 
----
+
 
 ## API Reference
 
 Meals are fetched from:
 https://www.themealdb.com/api/json/v1/1/search.php?f=a
----
 
-Live preview : 
-Click here : https://meal-db-react-app-three.vercel.app/
-```
+
 
 This returns meals starting with the letter `a`.
 
----
+
 
 *When you run the project, you’ll see a grid of meals with images, titles, categories, and areas.*
 
